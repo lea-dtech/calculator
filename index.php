@@ -35,6 +35,7 @@
         <button data-equals>=</button>
         <button data-operation>%</button>
     </div>
+    <h1 style="text-align: center;">This project has been made by <a href="https://github.com/lea-dtech" target="_blank">Bindash Vikram</h1>
 
     <script type="text/javascript" src="js/calculator.js"></script>
 </body>
